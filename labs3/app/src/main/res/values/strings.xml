@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Films and Series</string>
+
+    <!--actions-->
+    <string name="action_auth">Login</string>
+    <string name="action_reg">Sign up</string>
+    <string name="action_enter">Enter</string>
+    <string name="action_exit">Exit</string>
+
+    <!--hints-->
+    <string name="hint_login">Login</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_again_pass">Again Password</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_date">Date of bird</string>
+
+    <!--titles-->
+    <string name="title_films">Films</string>
+    <string name="title_series">Series</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
